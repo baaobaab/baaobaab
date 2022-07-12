@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @baaobaab
 - 👀 I’m interested in web design & web development
-- 🌱 I’m currently learning html5
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning html5, CSS3 & JavaScript
+- 💞️ I’m looking to collaborate on web projects
+- 📫 How to reach me - visit digitaljuice.ro
 
 <!---
 baaobaab/baaobaab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
